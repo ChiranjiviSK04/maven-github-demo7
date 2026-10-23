@@ -55,5 +55,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            chiranjeevik04/even-odd-checker:latest
-            chiranjeevik04/even-odd-checker:${{ github.sha }}
+            chiranjivisk04/even-odd-checker:latest
+            chiranjivisk04/even-odd-checker:${{ github.sha }}
